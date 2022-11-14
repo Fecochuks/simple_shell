@@ -222,32 +222,10 @@ Example:
 $ ./hsh
 $ alias show=ls
 $ show
-AUTHORS
-README.md
-atoi.c
-builtin.c
-builtin1.c
-environ.c
-errors.c
-errors1.c
-exits.c
-getLine.c
-getenv.c
-getinfo.c
-history.c
-hsh
-lists.c
-lists1.c
-main.c
-memory.c
-parser.c
-realloc.c
-shell.h
-shell.h.gch
-shell_loop.c
-string.c
-string1.c
-tokenizer.c
+AUTHORS	README.md	atoi.c	builtin.c	builtin1.c	environ.c	errors.c
+errors1.c	exits.c	getLine.c	getenv.c	getinfo.c	history.c	hsh
+lists.c	lists1.c	main.c	memory.c	parser.c	realloc.c	shell.h
+shell.h.gch	shell_loop.c	string.c	string1.c	tokenizer.c
 vars.c
 ```
 
@@ -305,8 +283,8 @@ $
 
 ## Authors :black_nib:
 
-* Okolie James <[Ifeanyichukwu](https://github.com/Fecochuks)>
-* Ifedayo Racheal <[Afolabi Oluwaseun Joseph](https://github.com/sheynex)>
+* Chukwu Ifeanyichukwu <[Ifeanyichukwu](https://github.com/Fecochuks)>
+* Afolabi Oluwaseun <[Afolabi Oluwaseun Joseph](https://github.com/sheynex)>
 
 ## License :lock:
 
